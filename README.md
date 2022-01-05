@@ -78,15 +78,25 @@ Feature files are the stored in test/resources/features directory which can used
 ## 4. API references ##
 
 [Rest Assured](https://rest-assured.io/)
+
 [Spring JDBC ](https://spring.io/projects/spring-data-jdbc)
+
 [Cucumber-JVM](https://cucumber.io/docs/installation/java/)
+
 [Cucumber Spring](https://github.com/cucumber/cucumber-jvm/tree/main/spring)
+
 [TestNG](https://testng.org/doc/)
+
 [Lombok](https://projectlombok.org/)
+
 [AssertJ](https://github.com/assertj/assertj-core)
+
 [Json Schema Validator](https://github.com/java-json-tools/json-schema-validator)
+
 [Spring Framework](https://github.com/spring-projects/spring-framework)
+
 [Cucumber Extent Report](https://www.extentreports.com/docs/versions/4/java/cucumber4.html)
+
 [Maven Cucumber Reports](https://github.com/damianszczepanik/maven-cucumber-reporting)
 
 ## 5. Build and Test ##
